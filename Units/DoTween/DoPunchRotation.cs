@@ -3,7 +3,7 @@ using DG.Tweening;
 using Ludiq;
 using UnityEngine;
 
-namespace Cognivive.Bolt.Units.DoTween
+namespace Core.Cognivive.Bolt.Units.DoTween
 {
     /// <summary>Gets the item at the specified index of a list.</summary>
     [UnitCategory("Tweens")]

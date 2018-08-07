@@ -1,7 +1,7 @@
 ﻿using Bolt;
 using Ludiq;
 
-namespace Cognivive.Bolt.Events.OVR
+namespace Core.Cognivive.Bolt.Events.OVR
 {
     [TypeIcon(typeof(TouchControllerButtonDownEvent))] // Choose the type icon. @32x - headers; @16x -ports and fuzzy finder categories. Located in Editor Default Resources.
     [UnitTitle("On Touch Button Down")] // Sets the actual named title of the unit, this is used in the Fuzzy Finder.

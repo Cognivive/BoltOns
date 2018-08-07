@@ -1,6 +1,6 @@
 ﻿using Bolt;
 
-namespace Cognivive.Bolt.Events.Items
+namespace Core.Cognivive.Bolt.Events.Items
 {
     [UnitTitle("On Touch Begin")] // Sets the actual named title of the unit, this is used in the Fuzzy Finder.
     public class ObjectTouchedEvent : VRTK_InteractableObjectEvent

@@ -2,7 +2,7 @@
 using Ludiq;
 using UnityEngine;
 
-namespace Cognivive.Bolt.Events
+namespace Core.Cognivive.Bolt.Events
 {
     public abstract class CustomDelegateEvent<T> : GameObjectEventUnit where T : Component
     {

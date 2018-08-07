@@ -2,7 +2,7 @@ using Bolt;
 using Ludiq;
 using UnityEngine;
 
-namespace Cognivive.Bolt.Units.DoTween
+namespace Core.Cognivive.Bolt.Units.DoTween
 {
     public abstract class TweenTransformUnit : DOTweenUnit
     {

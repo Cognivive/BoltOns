@@ -3,7 +3,7 @@ using Ludiq;
 using VRTK;
 using UnityEngine;
 
-namespace Cognivive.Bolt.Events.Inventory
+namespace Core.Cognivive.Bolt.Events.Inventory
 {
     [TypeIcon(typeof(VRTK_SnapDropZone))] // Choose the type icon. @32x - headers; @16x -ports and fuzzy finder categories. Located in Editor Default Resources.
     [UnitCategory("Events/Inventory")] // Sets unit category in Fuzzy Finder. Subfolders are matched and created.

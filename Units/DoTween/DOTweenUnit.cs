@@ -2,7 +2,7 @@ using Bolt;
 using DG.Tweening;
 using Ludiq;
 
-namespace Cognivive.Bolt.Units.DoTween
+namespace Core.Cognivive.Bolt.Units.DoTween
 {
     public abstract class DOTweenUnit : Unit
     {

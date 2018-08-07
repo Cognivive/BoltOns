@@ -2,7 +2,7 @@
 using Ludiq;
 using VRTK;
 
-namespace Cognivive.Bolt.Units.VRTK
+namespace Core.Cognivive.Bolt.Units.VRTK
 {
     [TypeIcon(typeof(VRTK_SDKManager))] // Choose the type icon. @32x - headers; @16x -ports and fuzzy finder categories. Located in Editor Default Resources.
     [UnitTitle("Controller Reference")] // Sets the actual named title of the unit, this is used in the Fuzzy Finder.

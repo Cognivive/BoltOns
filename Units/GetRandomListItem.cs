@@ -3,7 +3,7 @@ using Bolt;
 using Extensions;
 using Ludiq;
 
-namespace Cognivive.Bolt.Units
+namespace Core.Cognivive.Bolt.Units
 {
     /// <summary>Gets the item at the specified index of a list.</summary>
     [UnitCategory("Collections/Lists")]

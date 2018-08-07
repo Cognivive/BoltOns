@@ -1,6 +1,6 @@
 ﻿using Bolt;
 
-namespace Cognivive.Bolt.Events.Items
+namespace Core.Cognivive.Bolt.Events.Items
 {
     [UnitTitle("On Grabbed")] // Sets the actual named title of the unit, this is used in the Fuzzy Finder.
     public class GrabbedEvent : VRTK_InteractableObjectEvent

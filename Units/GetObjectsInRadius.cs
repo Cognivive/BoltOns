@@ -3,7 +3,7 @@ using Bolt;
 using Ludiq;
 using UnityEngine;
 
-namespace Cognivive.Bolt.Units
+namespace Core.Cognivive.Bolt.Units
 {
     [UnitTitle("Get Objects In Radius")] // Sets the actual named title of the unit, this is used in the Fuzzy Finder.
     [UnitCategory("World")] // Sets unit category in Fuzzy Finder. Subfolders are matched and created.

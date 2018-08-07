@@ -2,7 +2,7 @@
 using Ludiq;
 using UnityEngine;
 
-namespace Cognivive.Bolt.Units
+namespace Core.Cognivive.Bolt.Units
 {
     [TypeIcon(typeof(OVRControlDirectionValue))] // Choose the type icon. @32x - headers; @16x -ports and fuzzy finder categories. Located in Editor Default Resources.
     [UnitTitle("Get Thumbstick Direction")] // Sets the actual named title of the unit, this is used in the Fuzzy Finder.

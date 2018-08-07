@@ -2,7 +2,7 @@
 using Ludiq;
 using Zenject;
 
-namespace Cognivive.Bolt.Units.Zenject
+namespace Core.Cognivive.Bolt.Units.Zenject
 {
     [UnitTitle("Inject")] // Sets the actual named title of the unit, this is used in the Fuzzy Finder.
     [UnitCategory("Zenject")] // Sets unit category in Fuzzy Finder. Subfolders are matched and created.

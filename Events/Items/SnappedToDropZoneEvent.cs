@@ -1,6 +1,6 @@
 ﻿using Bolt;
 
-namespace Cognivive.Bolt.Events.Items
+namespace Core.Cognivive.Bolt.Events.Items
 {
     [UnitTitle("On Snapped To Drop Zone")] // Sets the actual named title of the unit, this is used in the Fuzzy Finder.
     public class SnappedToDropZoneEvent : VRTK_InteractableObjectEvent

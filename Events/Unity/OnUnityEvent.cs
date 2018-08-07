@@ -3,7 +3,7 @@ using Ludiq;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Cognivive.Bolt.Events.Unity
+namespace Core.Cognivive.Bolt.Events.Unity
 {
     [TypeIcon(typeof(OnUnityEvent))] // Choose the type icon. @32x - headers; @16x -ports and fuzzy finder categories. Located in Editor Default Resources.
     [UnitTitle("On UnityEvent")] // Sets the actual named title of the unit, this is used in the Fuzzy Finder.
